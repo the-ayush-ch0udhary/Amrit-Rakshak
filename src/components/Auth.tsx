@@ -44,10 +44,10 @@ const ContactModal: React.FC<ContactModalProps> = ({ isOpen, onClose, isDark }) 
           <div className={`${isDark ? 'bg-slate-700 border-slate-600' : 'bg-gradient-to-r from-blue-50 to-indigo-50 border-blue-200'} rounded-2xl p-6 border`}>
             <p className={`text-sm font-medium ${isDark ? 'text-gray-300' : 'text-gray-700'} mb-2`}>Email Address:</p>
             <a 
-              href="mailto:renanhawladar2003@gmail.com" 
+              href="mailto:choudharyayush811@gmail.com" 
               className="text-indigo-500 hover:text-indigo-600 font-semibold text-lg transition-colors duration-200 hover:underline"
             >
-              renanhawladar2003@gmail.com
+              choudharyayush811@gmail.com
             </a>
           </div>
         </div>
